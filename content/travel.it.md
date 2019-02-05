@@ -21,7 +21,7 @@ In tutti gli aeroporti si possono trovare compagnie di noleggio auto. _E.g._:
 * [RentalCars Genova](https://www.rentalcars.com/en/airport/ch/gva/?affiliateCode=msn_new_row&preflang=en&label=msn-pFOrQvR3ih4LFY6aMxwlFQ-75591465074382&adcamp=Airports%20-%20Switzerland&adco=cpc&utm_medium=cpc&utm_source=bing&utm_term=pFOrQvR3ih4LFY6aMxwlFQ&msclkid=d14e75a5c2921bf865d829e17544448e) 
 
 ### <span class='iconsize'>🚂</span> Treni
-Ortonovo è a 15 minuti di macchina dalla stazione ferroviaria piu vicina:
+Ortonovo è a 15 minuti di macchina dalle stazioni ferroviarie piu vicine:
 
 * _Carrara-Avenza_ 
 * _Massa Centro_
