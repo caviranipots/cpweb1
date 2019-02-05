@@ -17,7 +17,7 @@ Non ci sono molte opzioni per pernottare ad Ortonovo, ma ce ne sono alcune a Car
 
 ### Esplorare i dintorni
 
-Se siete interessati a visitare località turistiche dell'area prima o dopo il matrimonio, queste sono alcune idee su dove pernottare e qualche link (forse) utile:
+Se siete interessati a visitare località turistiche della zona prima o dopo il matrimonio, queste sono alcune idee su dove pernottare e qualche link che speriamo possa essere utile:
 
 * [Guida turistica per Pisa](https://pisaitaly.ca/)
 * etc
