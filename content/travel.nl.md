@@ -13,8 +13,8 @@ Op 8 juni 2019 trouwen Cora en Edo! Jullie zijn van harte welkom op de ceremonie
 
 ### <span class='iconsize'>✈</span>  &ensp;Vlieghavens
 
-* dichtstbijzijnde: [Pisa vlieghaven] (https://www.pisa-airport.com/) ,
-* een andere vlieghaven "in de buurt": [Genova vlieghaven] (https://www.genovaairport.com/) .
+* De dichtstbijzijnde vlieghaven is [Pisa vlieghaven] (https://www.pisa-airport.com/) ,
+* Een andere vlieghaven "in de buurt" is [Genova vlieghaven] (https://www.genovaairport.com/) .
 
 ### <span class='iconsize'>🚗</span> Autoverhuur
 Op alle vlieghavens zijn er een aantal autoverhuurbedrijven te vinden, _bvb._:
@@ -37,13 +37,13 @@ Er rijden volgende bussen tussen de treinstations en Ortonovo: [CTT Nord Massa-C
 * _Carrara-Avenza_ naar Ortonovo: bussen 82 of 83 (~1/2 uur)
 * _Massa Centro_ naar Ortonovo: bussen 17 and 82 (~2 uur)
 
-[Laat ons weten a.u.b.](mailto:caviranipots@gmail.com) als je bij je aankomst/vertrek assistentie nodig hebt, m.b.t. de reis van het station naar Ortonovo en terug.
+[Laat ons weten a.u.b.](mailto:caviranipots@gmail.com) als je bij je aankomst/vertrek hulp nodig hebt, m.b.t. de reis van het station naar Ortonovo en terug.
 
-### <span class='iconsize'>&#129309;</span> Car sharing/Auto delen
-1. We verwachten dat veel gasten auto's hebben om te reisen in de buurt van Ortonovo. 
+### <span class='iconsize'>&#129309;</span> Autodelen
+1. We verwachten dat veel gasten auto's hebben om in de buurt van Ortonovo te reisen. 
 2. Sommige mensen kunnen ook lift nodig hebben om van/naar de vlieghavens en de stations te reizen.
-3. Daarom willen we "Care sharing" initiative coordineren om iedereen's reis een stuk makkelijker te maken.
+3. Daarom willen we het initiatief "Autodelen" coordineren om iedereen's reis een stuk makkelijker te maken.
   * Als je een auto met vrije plaatsen hebt,  *[laat ons weten, aub](https://docs.google.com/forms/d/e/1FAIpQLScJLmbVqMeDLjNyuYsAIG8bULhX4dJW82KQXiBOjhvQg18REA/viewform?usp=sf_link)*.
   * Als je lift nodig hebt, *[laat ons weten, aub](https://docs.google.com/forms/d/e/1FAIpQLSeNe8Y8DdOuJftMdVe_Y9ZdNUVcMvt7PFnieALL51_XCOfb5A/viewform?usp=sf_link)*.
-4. We gaan de auto-hebbers en auto-nodigers in contact bringen. 
+4. We zullen de auto-hebbers en auto-nodigers in contact brengen. 
 
