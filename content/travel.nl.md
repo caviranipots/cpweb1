@@ -13,7 +13,7 @@ Op 8 juni 2019 trouwen Cora en Edo! Jullie zijn van harte welkom op de ceremonie
 
 ### <span class='iconsize'>✈</span>  &ensp;Vlieghavens
 
-* De dichtstbijzijnde vlieghaven is [Pisa vlieghaven] (https://www.pisa-airport.com/) ,
+* De dichtstbijzijnde vlieghaven is [Pisa vlieghaven] (https://www.pisa-airport.com/),
 * Een andere vlieghaven "in de buurt" is [Genova vlieghaven] (https://www.genovaairport.com/) .
 
 ### <span class='iconsize'>🚗</span> Autoverhuur
