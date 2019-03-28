@@ -5,7 +5,7 @@ thumbnail = "images/tn.png"
 description = ""
 +++
 
-The wedding ceremony will take place in the **morning June 8<sup>th</sup>**, so it is important that you are at the venue by that time :)
+The wedding ceremony will take place on **Saturday 8th of June** at **9:30 am**, so it is important that you are at the venue ([Roman Amphitheatre in Luni](https://goo.gl/maps/UojhnNnR7Qv)) by that time :)
 
 ### Wedding day +/- 1
 

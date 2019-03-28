@@ -5,7 +5,7 @@ thumbnail = "images/tn.png"
 description = ""
 +++
 
-Il matrimonio si terrà la **mattina dell'8 Giugno**, quindi è importante essere in loco in tempo :)
+Il matrimonio si terrà **sabato l'8 giugno** alle **9:30 am**, quindi è importante essere in loco in tempo :)
 
 ### Giorno del matrimonio +/- 1
 

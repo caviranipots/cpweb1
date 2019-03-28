@@ -7,7 +7,7 @@ description = ""
 
 Dit gedeelte van de website is nog in ontwikkeling.
 
-De ceremonie vindt plaats **op zaterdag 8 juni 2019 's morgens**. Het is dus belangrijk dat jullie vóór het begin van de ceremonie aankomen.
+De ceremonie vindt plaats **op zaterdag 8 juni** om **9:30 's morgens**. Het is dus belangrijk dat jullie vóór het begin van de ceremonie aankomen.
 
 
 ### Trouwdag +/- 1

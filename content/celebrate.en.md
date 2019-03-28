@@ -5,19 +5,17 @@ thumbnail = "images/tn.png"
 description = ""
 +++
 
-This is the tentative program for the wedding.
+### Program of the day (Saturday 8th of June)
 
-### Program of the day
+* Ceremony: **9:30 am (sharp!)**, at [Anfiteatro Romano di Luni](https://goo.gl/maps/UojhnNnR7Qv).
 
-* Ceremony: morning, Ortonovo downtown.
-
-* Celebrations: lunch and onwards, till late, [Santuario del Mirteto] (http://www.santuariodelmirteto.it/).
+* Celebrations: lunch and onwards, till late, at [Santuario del Mirteto](http://www.santuariodelmirteto.it/).
 
 Detailed schedule to be announced in March/April.
 
 ### Preparations
 
-&ensp;&ensp;<span class='iconsize'>&#9835;</span> &ensp;&ensp; [Get in tune!](https://www.youtube.com/watch?v=_xPz0K_CrgA&app=desktop)
+&ensp;&ensp;<span class='iconsize'>&#9835;</span> &ensp;&ensp; [Get in tune!](https://www.youtube.com/watch?v=_xPz0K_CrgA)
 
 &ensp;&ensp;<span class='iconsize'>&#128090;</span> &ensp; No particular **dress code**.
 
