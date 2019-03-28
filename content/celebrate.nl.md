@@ -24,8 +24,3 @@ Het gedetailleerde programma van het trouwfeest wordt in maart/april aangekondig
 &ensp;&ensp;<span class='iconsize'>&#128090;</span> &ensp; Geen bijzondere **dresscode**.
 
 &ensp;&ensp;<span class='iconsize'>&#127873;</span> &ensp; Jullie aanwezigheid is **het leukste cadeau!**
-
-##### Taal oefeningen
-
-wordt aangekondigd
-

@@ -22,7 +22,3 @@ Un progamma più dettagliato sarà pubblicato verso marzo/aprile.
 &ensp;&ensp;<span class='iconsize'>&#128090;</span> &ensp; Nessun **dress code** richiesto.
 
 &ensp;&ensp;<span class='iconsize'>&#127873;</span> &ensp; La vostra presenza sarà **il miglior regalo!!**
-
-##### Per fare pratica con le lingue  
-
-tba

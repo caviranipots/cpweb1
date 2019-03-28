@@ -22,8 +22,3 @@ Detailed schedule to be announced in March/April.
 &ensp;&ensp;<span class='iconsize'>&#128090;</span> &ensp; No particular **dress code**.
 
 &ensp;&ensp;<span class='iconsize'>&#127873;</span> &ensp; Your presence is **the best gift!!**
-
-##### Language practice
-
-tba
-
