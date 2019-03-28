@@ -1014,7 +1014,7 @@ img{
 }
 @media only screen and (max-device-width:768px){
 	.avatar img{
-		width:60%
+		width:80%
 }
 }
 .list ul{
