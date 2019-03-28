@@ -45,31 +45,31 @@ disqusShortname = "yourdiscussshortname"
     # RTL support
     rtl = false
 
-    langseparator = ""
+    langseparator = "―"
 
 [[params.social]]
-    name = "Nederlands"
+    name = ""
     weight = 1
     url = "/nl"
 [[params.social]]
-    name = "Italiano"
+    name = ""
     weight = 2
     url = "/it"
 [[params.social]]
-    name = "English"
+    name = ""
     weight = 3
     url = "/en"
 
 [languages]
     [languages.en]
         languagecode = "en"
-        languagename = "" # The language name to be displayed in the selector.
+        languagename = "EN" # The language name to be displayed in the selector.
         title = "Cora & Edoardo"
 
         # You can configure the theme parameter for each language.
         [languages.en.params]
-            author = ""
-            info = ""
+            author = "Saturday 8th of June"
+            info = "> ceremony at 9:30 am <"
             description = ""
             keywords = ""
 
@@ -97,13 +97,13 @@ disqusShortname = "yourdiscussshortname"
                 
     [languages.it]
         languagecode = "it"
-        languagename = "" # The language name to be displayed in the selector.
+        languagename = "IT" # The language name to be displayed in the selector.
         title = "Cora & Edoardo"
 
         # You can configure the theme parameter for each language.
         [languages.it.params]
-            author = ""
-            info = ""
+            author = "sabato 8 giugno"
+            info = "> cerimonia alle 9:30 am <"
             description = ""
             keywords = ""
 
@@ -131,13 +131,13 @@ disqusShortname = "yourdiscussshortname"
                 
     [languages.nl]
         languagecode = "nl"
-        languagename = "" # The language name to be displayed in the selector.
+        languagename = "NL" # The language name to be displayed in the selector.
         title = "Cora & Edoardo"
 
         # You can configure the theme parameter for each language.
         [languages.nl.params]
-            author = ""
-            info = ""
+            author = "zaterdag 8 juni"
+            info = "> ceremonie om 9:30 am <"
             description = ""
             keywords = ""
 
