@@ -5,7 +5,7 @@ thumbnail = "images/tn.png"
 description = ""
 +++
 
-### Programma della giornata
+### Programma della giornata (sabato 8 giugno)
 
 * Cerimonia: **9:30 am (in punto!)**, [Anfiteatro Romano di Luni](https://goo.gl/maps/UojhnNnR7Qv).
 

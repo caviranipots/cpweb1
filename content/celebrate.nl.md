@@ -5,7 +5,7 @@ thumbnail = "images/tn.png"
 description = ""
 +++
 
-### De agenda van de dag
+### De agenda van de dag (zaterdag 8 juni)
 
 * De ceremonie: om **9:30 am (precies!)**, bij [Anfiteatro Romano di Luni](https://goo.gl/maps/UojhnNnR7Qv).
 
